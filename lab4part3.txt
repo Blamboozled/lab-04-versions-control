@@ -16,8 +16,8 @@ Follow the instructions line-by-line.
 
 Write the command you used to do this below.
 ----------
-
-
+cd ~/Desktop/Jkim/lab-04-version-control
+nano temp.txt
 
 ==========
 3. Open another terminal
